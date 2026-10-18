@@ -80,7 +80,6 @@ Clone the repository:
 
 ```bash
 git clone  https://github.com/Augustine-cudjoe/k_hourse_SEIRW_projects_result
-cd YOUR-REPOSITORY
 ```
 
 
