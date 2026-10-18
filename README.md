@@ -79,11 +79,11 @@ These are numerical illustrations for the specified parameter configurations, no
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone  https://github.com/Augustine-cudjoe/k_hourse_SEIRW_projects_result
 cd YOUR-REPOSITORY
 ```
 
-Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with the actual GitHub account name and repository name.
+
 
 Install the dependencies:
 
